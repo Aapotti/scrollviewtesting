@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1092524788476",
+    "firebase_url": "https://kymiring-demo.firebaseio.com",
+    "project_id": "kymiring-demo",
+    "storage_bucket": "kymiring-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092524788476:android:e4305870635caca6",
+        "android_client_info": {
+          "package_name": "com.example.aapotti.scrollviewtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092524788476-j79c1olfgo01r5451vdhfv5murf56j9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aapotti.scrollviewtesting",
+            "certificate_hash": "411c924993126483c7213e123bb1380b9389b030"
+          }
+        },
+        {
+          "client_id": "1092524788476-apven7t6gnjo5gq5nb3ifecsm2huvbn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQM3udvg_mzRLJv5Iv78QVW-Bqpm4vPqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092524788476-apven7t6gnjo5gq5nb3ifecsm2huvbn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
